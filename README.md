@@ -41,5 +41,5 @@ The core working can be explained in steps:
 
 This is a result image:
 ![image](https://github.com/lordprime/LLM-Powered-PDF-Chatbot/assets/93172671/2d38fcd1-d9eb-415a-a7be-976760ced129)
-![image](https://github.com/lordprime/LLM-Powered-PDF-Chatbot/assets/93172671/3867ac87-67c3-4df6-8092-94fe07a1db1b)
+![image](https://github.com/lordprime/LLM-Powered-PDF-Chatbot/assets/93172671/de27cdf0-715c-46ec-bd54-346c6a465097)
 
