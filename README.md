@@ -36,3 +36,10 @@ The core working can be explained in steps:
 - **Step 3 Chunks and Embeddings:** The Text data extracted is generated into chunks of 1000 tokens and then this list of text is converted into embeddings.
 - **Step 4 Prompting and conversation:** The generated embeddings are then conversed with OpenAI API key with the prompt or question asked by the user to check for an answer.
 - **Step 5 Return the answer:** After finding the answer its sent back to the user.
+
+## Result
+
+This is a result image:
+![image](https://github.com/lordprime/LLM-Powered-PDF-Chatbot/assets/93172671/2d38fcd1-d9eb-415a-a7be-976760ced129)
+![image](https://github.com/lordprime/LLM-Powered-PDF-Chatbot/assets/93172671/3867ac87-67c3-4df6-8092-94fe07a1db1b)
+
